@@ -112,19 +112,12 @@
 <a href="https://github.com/alxdem">
     <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="mongodb">
 </a>
-<a href="https://github.com/alxdem">
-    <img src="https://img.shields.io/badge/express.js-778?style=for-the-badge&logo=express&logoColor=fff" alt="express js">
-</a>
-<a href="https://github.com/alxdem">
-    <img src="https://img.shields.io/badge/gsap-0AE448?style=for-the-badge&logo=gsap&logoColor=fff" alt="gsap">
-</a>
-<a href="https://github.com/alxdem">
-    <img src="https://img.shields.io/badge/WOW.js-889?style=for-the-badge" alt="WOW.js">
-</a>
+<img src="https://img.shields.io/badge/express.js-778?style=for-the-badge&logo=express&logoColor=fff" alt="express js">
+<img src="https://img.shields.io/badge/gsap-0AE448?style=for-the-badge&logo=gsap&logoColor=fff" alt="gsap">
+<img src="https://img.shields.io/badge/WOW.js-889?style=for-the-badge" alt="WOW.js">
 
 <h3>Languages</h3>
-<img src="https://img.shields.io/badge/Russian-native-ddf?style=for-the-badge&label=Russian&labelColor=335" alt="Russian native" />
-<img src="https://img.shields.io/badge/English-B1-ddf?style=for-the-badge&label=English&labelColor=335" alt="English B1" />
+<img src="https://img.shields.io/badge/Russian-native-ddf?style=for-the-badge&label=Russian&labelColor=335" alt="Russian native" /><img src="https://img.shields.io/badge/English-B1-ddf?style=for-the-badge&label=English&labelColor=335" alt="English B1" />
 
 <!--
 **alxdem/alxdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
