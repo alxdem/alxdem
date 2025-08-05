@@ -67,3 +67,10 @@
     <img src="https://img.shields.io/badge/Russian-native-ddf?style=for-the-badge&label=Russian&labelColor=335" alt="Russian native" /><br/>
     <img src="https://img.shields.io/badge/English-B1-ddf?style=for-the-badge&label=English&labelColor=335" alt="English B1" />
 </p>
+
+<h2>📫 Connect with Me</h2>
+<ul>
+    <li>Email: <a href="mailto:dr.a.lekter@gmail.com" target="_blank">dr.a.lekter@gmail.com</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/demalx/" target="_blank">linkedin.com/in/demalx</a></li>
+    <li>Telegram: <a href="https://t.me/demalx" target="_blank">@demalx</a></li>
+</ul>
