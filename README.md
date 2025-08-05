@@ -123,8 +123,8 @@
 </a>
 
 <h3>Languages</h3>
-<img src="https://img.shields.io/badge/Russian-native-ddf?style=for-the-badge&label=Russian&labelColor=335" alt="Russian native">
-<img src="https://img.shields.io/badge/English-B1-ddf?style=for-the-badge&label=Russian&labelColor=335" alt="Russian native">
+<img src="https://img.shields.io/badge/Russian-native-ddf?style=for-the-badge&label=Russian&labelColor=335" alt="Russian native" />
+<img src="https://img.shields.io/badge/English-B1-ddf?style=for-the-badge&label=English&labelColor=335" alt="English B1" />
 
 <!--
 **alxdem/alxdem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
