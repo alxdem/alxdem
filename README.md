@@ -16,13 +16,13 @@
 
 <p>Frameworks/libraries: 
     <img src="https://img.shields.io/badge/React-61dbfb?style=flat&logo=react&logoColor=000" alt="react" />
-    <img src="https://img.shields.io/badge/React_router-CA4245?style=flat&logo=reactrouter&logoColor=fff" alt="react router" />
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=fff" alt="react router" />
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=fff" alt="redux" />
-    <img src="https://img.shields.io/badge/react_hook_form-EC5990?style=flat&logo=reacthookform&logoColor=fff" alt="react hook form" />
-    <img src="https://img.shields.io/badge/zod-3E67B1?style=flat&logo=zod&logoColor=fff" alt="zod" />
-    <img src="https://img.shields.io/badge/recharts-FF6384?style=flat&logo=chartdotjs&logoColor=fff" alt="recharts" />
-    <img src="https://img.shields.io/badge/graphql-E10098?style=flat&logo=graphql&logoColor=fff" alt="graphql" />
-    <img src="https://img.shields.io/badge/vue-4FC08D?style=flat&logo=vuedotjs&logoColor=fff" alt="vue" />
+    <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=fff" alt="react hook form" />
+    <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=fff" alt="zod" />
+    <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat&logo=chartdotjs&logoColor=fff" alt="recharts" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=fff" alt="graphql" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=fff" alt="vue" />
 </p>
 
 <h3>Languages</h3>
