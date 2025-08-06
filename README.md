@@ -62,6 +62,18 @@
     <img src="https://img.shields.io/badge/English-B1-ddf?style=flat-square&label=English&labelColor=335" alt="English B1" />
 </p>
 
+<h2>💼 Experience</h2>
+<h3>Frontend Developer</h3>
+<p><b>Invest House</b> - April 2025 – Present</p>
+<p>Developed a fully client-side stock trading app using React, TypeScript, Vite, and Redux Toolkit, with data stored in localStorage and fetched from public APIs. Built custom features like a CDN for optimized company logos, a virtualized operation list, and an npm package for credit card UI formatting. Implemented charts with Recharts, form validation with React Hook Form + Zod, and light/dark themes via CSS variables.</p>
+
+<h2>🎓 Education</h2>
+<p>
+<b>Specialist Degree in Computer Science</b><br/>
+State University of Aerospace Instrumentation (SUAI)<br/>
+5-year integrated program
+</p>
+
 <h2>📫 Connect with Me</h2>
 <p>
     <a href="mailto:dr.a.lekter@gmail.com"><img src="https://img.shields.io/badge/dr.a.lekter@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="mail" /></a>
