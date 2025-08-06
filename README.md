@@ -65,12 +65,20 @@
 <h2>💼 Experience</h2>
 <h3>Frontend Developer</h3>
 <p><b>Invest House</b> (April 2025 – Present)</p>
+<ul>
+    <li>Developed a fully client-side stock trading app using React, TypeScript, Vite, and Redux Toolkit, with data stored in localStorage and fetched from public APIs;</li>
+    <li>Built custom features like a CDN for optimized company logos, a virtualized operation list, and an npm package for credit card UI formatting;</li>
+    <li>Implemented charts with Recharts, form validation with React Hook Form + Zod, and light/dark themes via CSS variables.</li>
+</ul>
 <p>Developed a fully client-side stock trading app using React, TypeScript, Vite, and Redux Toolkit, with data stored in localStorage and fetched from public APIs. Built custom features like a CDN for optimized company logos, a virtualized operation list, and an npm package for credit card UI formatting. Implemented charts with Recharts, form validation with React Hook Form + Zod, and light/dark themes via CSS variables.</p>
 
 <h3>Frontend Developer</h3>
-<p><b>ARTW – a leading IT integrator in Russia</b> (April 2025 – Present)</p>
+<p><b>ARTW – a leading IT integrator in Russia</b> (July 2020 – Present)</p>
+<h4>A marketplace project (NDA)</h4>
 <ul>
-    <li>A marketplace project (under NDA) using React.js, TypeScript, and Next.js. Developed supplier and banner management modules with full CRUD, pagination, filtering, and image upload. Discovered a vulnerability in dependencies and initiated package updates after discussion with the team lead. Also conducted code reviews for 4 external developers.</li>
+    <li>Using React.js, TypeScript, and Next.js. Developed supplier and banner management modules with full CRUD, pagination, filtering, and image upload;</li>
+    <li>Discovered a vulnerability in dependencies and initiated package updates after discussion with the team lead;</li>
+    <li>Conducted code reviews for 4 external developers.</li>
 </ul>
 
 <h2>🎓 Education</h2>
