@@ -69,6 +69,13 @@
 </p>
 
 <h2>📫 Connect with Me</h2>
+<p>
+    <a href="mailto:dr.a.lekter@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=fff" alt="mail" />
+    </a>
+</p>
+
+<h2>📫 Connect with Me</h2>
 <ul>
     <li>Email: <a href="mailto:dr.a.lekter@gmail.com" target="_blank">dr.a.lekter@gmail.com</a></li>
     <li>LinkedIn: <a href="https://www.linkedin.com/in/demalx/" target="_blank">linkedin.com/in/demalx</a></li>
