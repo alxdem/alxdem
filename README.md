@@ -66,11 +66,9 @@
 <p>
     <a href="mailto:dr.a.lekter@gmail.com">
         <img src="https://img.shields.io/badge/dr.a.lekter@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="mail" />
-    </a>
-    <a href="https://www.linkedin.com/in/demalx/">
+    </a><a href="https://www.linkedin.com/in/demalx/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=fff" alt="mail" />
-    </a>
-    <a href="https://t.me/demalx">
+    </a><a href="https://t.me/demalx">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff" alt="mail" />
     </a>
 </p>
