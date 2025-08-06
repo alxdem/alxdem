@@ -64,33 +64,13 @@
 
 <h2>📫 Connect with Me</h2>
 <p>
-    <a href="mailto:dr.a.lekter@gmail.com" rel="nofollow">
+    <a href="mailto:dr.a.lekter@gmail.com">
         <img src="https://img.shields.io/badge/dr.a.lekter@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" alt="mail" />
     </a>
     <a href="https://www.linkedin.com/in/demalx/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=fff" alt="mail" />
     </a>
     <a href="https://t.me/demalx">
-        <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=fff" alt="mail" />
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff" alt="mail" />
     </a>
 </p>
-
-<h2>📫 Connect with Me</h2>
-<p>
-    <a href="mailto:dr.a.lekter@gmail.com">
-        <img src="https://img.shields.io/badge/dr.a.lekter@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=fff" alt="mail" />
-    </a>
-    <a href="https://www.linkedin.com/in/demalx/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=inspire&logoColor=fff" alt="mail" />
-    </a>
-    <a href="https://t.me/demalx">
-        <img src="https://img.shields.io/badge/Telegram-0077B5?style=flat-square&logo=telegram&logoColor=fff" alt="mail" />
-    </a>
-</p>
-
-<h2>📫 Connect with Me</h2>
-<ul>
-    <li>Email: <a href="mailto:dr.a.lekter@gmail.com" target="_blank">dr.a.lekter@gmail.com</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/demalx/" target="_blank">linkedin.com/in/demalx</a></li>
-    <li>Telegram: <a href="https://t.me/demalx" target="_blank">@demalx</a></li>
-</ul>
