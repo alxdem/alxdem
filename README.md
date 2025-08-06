@@ -9,10 +9,10 @@
 <h2>🛠️ Skills</h2>
 <h3>Languages</h3>
 <p>
-    <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff" alt="typescript" />
-    <img src="https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000" alt="javascript" />
-    <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=fff" alt="html5" />
-    <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=fff" alt="css" />
+    <img src="https://img.shields.io/badge/typescript-3178c6?style=flat&logo=typescript&logoColor=fff" alt="typescript" />
+    <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat&logo=javascript&logoColor=000" alt="javascript" />
+    <img src="https://img.shields.io/badge/html5-e34f26?style=flat&logo=html5&logoColor=fff" alt="html5" />
+    <img src="https://img.shields.io/badge/css-663399?style=flat&logo=css&logoColor=fff" alt="css" />
 </p>
 
 <h3>Frameworks / libraries</h3>
