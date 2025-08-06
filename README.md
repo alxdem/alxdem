@@ -38,59 +38,28 @@
     <img src="https://img.shields.io/badge/Twig-226622?style=flat&logoColor=fff" alt="twig" />
 </p>
 
-<h3>Languages</h3>
-<p>
-    <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff" alt="typescript" />
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000" alt="javascript" />
-    <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=fff" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=fff" alt="css" />
+<p><b>Concepts:</b>&nbsp; 
+    <img src="https://img.shields.io/badge/Performance_optimization-236?style=flat" alt="Performance optimization" />
+    <img src="https://img.shields.io/badge/SPA-237?style=flat" alt="spa" />
+    <img src="https://img.shields.io/badge/RESTful_API-238?style=flat" alt="RESTful API" />
+    <img src="https://img.shields.io/badge/Feature_Sliced_Design-349?style=flat" alt="Feature Sliced Design" />
+    <img src="https://img.shields.io/badge/SEO-34a?style=flat" alt="SEO" />
+    <img src="https://img.shields.io/badge/Agile/Scrum-34b?style=flat" alt="Agile Scrum" />
+    <img src="https://img.shields.io/badge/Code_review-34c?style=flat" alt="Code review" />
 </p>
 
-<h3>Frameworks / libraries</h3>
-<p>
-    <img src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=000" alt="react" />
-    <img src="https://img.shields.io/badge/React_router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=fff" alt="react router" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff" alt="redux" />
-    <img src="https://img.shields.io/badge/react_hook_form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=fff" alt="react hook form" />
-    <img src="https://img.shields.io/badge/zod-3E67B1?style=for-the-badge&logo=zod&logoColor=fff" alt="zod" />
-    <img src="https://img.shields.io/badge/recharts-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=fff" alt="recharts" />
-    <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=fff" alt="graphql" />
-    <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=fff" alt="vue" />
+<p><b>Additionally worked with:</b>&nbsp; 
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=fff" alt="nextjs" />
+    <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=fff" alt="mui" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" alt="mongodb" />
+    <img src="https://img.shields.io/badge/Express.js-778?style=flat&logo=express&logoColor=fff" alt="express js" />
+    <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat&logo=gsap&logoColor=fff" alt="gsap" />
+    <img src="https://img.shields.io/badge/WOW.js-889?style=flat" alt="WOW.js" />
 </p>
 
-<h3>Tools</h3>
-<p>
-    <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000" alt="webpack" />
-    <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" alt="vite" />
-    <img src="https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000" alt="babel" />
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="git" />
-    <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=fff" alt="eslint" />
-    <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff" alt="sass" />
-    <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff" alt="axios" />
-    <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=fff" alt="storybook" />
-    <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff" alt="vercel" />
-    <img src="https://img.shields.io/badge/twig-226622?style=for-the-badge&logoColor=fff" alt="twig" />
-</p>
-
-<h3>Concepts</h3>
-<p>
-    <img src="https://img.shields.io/badge/Performance_optimization-236?style=for-the-badge" alt="Performance optimization" />
-    <img src="https://img.shields.io/badge/spa-237?style=for-the-badge" alt="spa" />
-    <img src="https://img.shields.io/badge/RESTful_API-238?style=for-the-badge" alt="RESTful API" />
-    <img src="https://img.shields.io/badge/Feature_Sliced_Design-349?style=for-the-badge" alt="Feature Sliced Design" />
-    <img src="https://img.shields.io/badge/SEO-34a?style=for-the-badge" alt="SEO" />
-    <img src="https://img.shields.io/badge/Agile/Scrum-34b?style=for-the-badge" alt="Agile Scrum" />
-    <img src="https://img.shields.io/badge/code_review-34c?style=for-the-badge" alt="Agile Scrum" />
-</p>
-
-<h3>Additionally worked with</h3>
-<p>
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="nextjs" />
-    <img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=fff" alt="mui" />
-    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="mongodb" />
-    <img src="https://img.shields.io/badge/express.js-778?style=for-the-badge&logo=express&logoColor=fff" alt="express js" />
-    <img src="https://img.shields.io/badge/gsap-0AE448?style=for-the-badge&logo=gsap&logoColor=fff" alt="gsap" />
-    <img src="https://img.shields.io/badge/WOW.js-889?style=for-the-badge" alt="WOW.js" />
+<p><b>Languages:</b>&nbsp; 
+    <img src="https://img.shields.io/badge/Russian-native-ddf?style=flat&label=Russian&labelColor=335" alt="Russian native" /><br/>
+    <img src="https://img.shields.io/badge/English-B1-ddf?style=flat&label=English&labelColor=335" alt="English B1" />
 </p>
 
 <h3>Languages</h3>
