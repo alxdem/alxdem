@@ -7,13 +7,11 @@
 <p>5 years of commercial development experience. I love turning complex tasks into clear, easy-to-use interfaces.</p>
 
 <h2>🛠️ Skills</h2>
+<p>Languages: <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=fff" alt="typescript" />
+    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=000" alt="javascript" />
+    <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=fff" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=fff" alt="css" /></p>
 <h3>Languages</h3>
-<p>
-    <img src="https://img.shields.io/badge/typescript-3178c6?style=flat&logo=typescript&logoColor=fff" alt="typescript" />
-    <img src="https://img.shields.io/badge/Javascript-f7df1e?style=flat&logo=javascript&logoColor=000" alt="javascript" />
-    <img src="https://img.shields.io/badge/html5-e34f26?style=flat&logo=html5&logoColor=fff" alt="html5" />
-    <img src="https://img.shields.io/badge/css-663399?style=flat&logo=css&logoColor=fff" alt="css" />
-</p>
 
 <h3>Frameworks / libraries</h3>
 <p>
