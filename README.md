@@ -8,21 +8,21 @@
 
 <h2>🛠️ Skills</h2>
 <p><b>Languages:</b>&nbsp; 
-    <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=fff" alt="typescript" />
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=000" alt="javascript" />
-    <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=fff" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=fff" alt="css" />
+    <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff" alt="typescript" />
+    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000" alt="javascript" />
+    <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=fff" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=fff" alt="css" />
 </p>
 
 <p><b>Frameworks / libraries:</b>&nbsp; 
-    <img src="https://img.shields.io/badge/React-61dbfb?style=flat&logo=react&logoColor=000" alt="react" />
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=fff" alt="react router" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=fff" alt="redux" />
-    <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=fff" alt="react hook form" />
-    <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=fff" alt="zod" />
-    <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat&logo=chartdotjs&logoColor=fff" alt="recharts" />
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=fff" alt="graphql" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=fff" alt="vue" />
+    <img src="https://img.shields.io/badge/React-61dbfb?style=flat-square&logo=react&logoColor=000" alt="react" />
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=fff" alt="react router" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff" alt="redux" />
+    <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=fff" alt="react hook form" />
+    <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=fff" alt="zod" />
+    <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chartdotjs&logoColor=fff" alt="recharts" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff" alt="graphql" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=fff" alt="vue" />
 </p>
 
 <p><b>Tools:</b>&nbsp; 
