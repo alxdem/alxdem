@@ -2,7 +2,7 @@
 
 <h2 align="center">Frontend-developer</h2>
 
-<h2>About me</h2>
+<h2>🧑‍💻 About me</h2>
 
 <p>5 years of commercial development experience. I love turning complex tasks into clear, easy-to-use interfaces.</p>
 
