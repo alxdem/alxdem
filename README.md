@@ -70,16 +70,47 @@
     <li>Built custom features like a CDN for optimized company logos, a virtualized operation list, and an npm package for credit card UI formatting;</li>
     <li>Implemented charts with Recharts, form validation with React Hook Form + Zod, and light/dark themes via CSS variables.</li>
 </ul>
-<p>Developed a fully client-side stock trading app using React, TypeScript, Vite, and Redux Toolkit, with data stored in localStorage and fetched from public APIs. Built custom features like a CDN for optimized company logos, a virtualized operation list, and an npm package for credit card UI formatting. Implemented charts with Recharts, form validation with React Hook Form + Zod, and light/dark themes via CSS variables.</p>
 
 <h3>Frontend Developer</h3>
 <p><b>ARTW – a leading IT integrator in Russia</b> (July 2020 – Present)</p>
-<h4>A marketplace project (NDA)</h4>
+<h4>Marketplace project (NDA)</h4>
 <ul>
     <li>Using React.js, TypeScript, and Next.js. Developed supplier and banner management modules with full CRUD, pagination, filtering, and image upload;</li>
     <li>Discovered a vulnerability in dependencies and initiated package updates after discussion with the team lead;</li>
     <li>Conducted code reviews for 4 external developers.</li>
 </ul>
+
+<h4>PPE marketplace (NDA)</h4>
+<ul>
+    <li>Reduced data load 6× on high-traffic pages by optimizing product and image rendering;</li>
+    <li>Integrated ERID ad tracking, implemented corporate CDN for responsive image delivery, and added delivery time display to reduce cart abandonment;</li>
+    <li>Developed logic for showing product stock availability with admin controls.</li>
+</ul>
+
+<h4>E-commerce platform for a top-3 grocery chain in Russia (NDA)</h4>
+<ul>
+    <li>Built a job listings page with filtering and Yandex Maps integration, and developed a new catalog page with search, filters, and pagination;</li>
+    <li>Unified Yandex.Metrica event tracking and reduced UI component duplication by standardizing sliders and buttons;</li>
+    <li>Refactored holiday themes into a single modifier, rewrote the multi-step registration form, created new static SEO-friendly blocks, and regularly conducted code reviews.</li>
+</ul>
+
+<h4>Real estate developer’s website (NDA) - Russia’s top builder by volume in integrated urban development projects</h4>
+<ul>
+    <li>Used Vue.js, TypeScript, GraphQL, SCSS, and FSD architecture;</li>
+    <li>Refactored the lot page with a new layout slider, dynamic pricing logic, and a unified contact form;</li>
+    <li>Improved the residential complex page by optimizing video blocks, enhancing the apartment filter, and partially redesigning UI sections.</li>
+</ul>
+
+<h3>Frontend Developer</h3>
+<p><b>Nimax Digital Agency</b> (October 2018 – July 2020)</p>
+<h4>International reproductive medicine center (NDA)</h4>
+<ul>
+    <li>Single-handedly implemented the entire frontend with 54 templates and quickly added a high-contrast accessibility mode, despite it not being planned initially;</li>
+    <li>Closely collaborated with the backend developer to ensure smooth integration.</li>
+</ul>
+
+<h4>Food manufacturer (NDA)</h4>
+<p>Developed a fully responsive, cross-browser layout with smooth animations and transitions using CSS and JS.</p>
 
 <h2>🎓 Education</h2>
 <h3>Specialist Degree in Computer Science</h3>
