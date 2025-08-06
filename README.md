@@ -58,7 +58,7 @@
 </p>
 
 <p><b>Languages:</b>&nbsp; 
-    <img src="https://img.shields.io/badge/Russian-native-ddf?style=flat&label=Russian&labelColor=335" alt="Russian native" /><br/>
+    <img src="https://img.shields.io/badge/Russian-native-ddf?style=flat&label=Russian&labelColor=335" alt="Russian native" />
     <img src="https://img.shields.io/badge/English-B1-ddf?style=flat&label=English&labelColor=335" alt="English B1" />
 </p>
 
