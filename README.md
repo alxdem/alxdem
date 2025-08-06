@@ -53,6 +53,7 @@
     <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=fff" alt="mui" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" alt="mongodb" />
     <img src="https://img.shields.io/badge/Express.js-778?style=flat-square&logo=express&logoColor=fff" alt="express js" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff" alt="Postman" />
     <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=gsap&logoColor=fff" alt="gsap" />
     <img src="https://img.shields.io/badge/WOW.js-889?style=flat-square" alt="WOW.js" />
 </p>
