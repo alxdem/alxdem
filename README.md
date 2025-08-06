@@ -7,11 +7,31 @@
 <p>5 years of commercial development experience. I love turning complex tasks into clear, easy-to-use interfaces.</p>
 
 <h2>🛠️ Skills</h2>
-<div style="line-height: 0.9; display: flex;">Languages: <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=fff" alt="typescript" />
+<p>Languages: 
+    <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=fff" alt="typescript" />
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=000" alt="javascript" />
     <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=fff" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=fff" alt="css" /></div>
+    <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=fff" alt="css" />
+</p>
+
+<p>Frameworks/libraries: 
+    <img src="https://img.shields.io/badge/React-61dbfb?style=flat&logo=react&logoColor=000" alt="react" />
+    <img src="https://img.shields.io/badge/React_router-CA4245?style=flat&logo=reactrouter&logoColor=fff" alt="react router" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=fff" alt="redux" />
+    <img src="https://img.shields.io/badge/react_hook_form-EC5990?style=flat&logo=reacthookform&logoColor=fff" alt="react hook form" />
+    <img src="https://img.shields.io/badge/zod-3E67B1?style=flat&logo=zod&logoColor=fff" alt="zod" />
+    <img src="https://img.shields.io/badge/recharts-FF6384?style=flat&logo=chartdotjs&logoColor=fff" alt="recharts" />
+    <img src="https://img.shields.io/badge/graphql-E10098?style=flat&logo=graphql&logoColor=fff" alt="graphql" />
+    <img src="https://img.shields.io/badge/vue-4FC08D?style=flat&logo=vuedotjs&logoColor=fff" alt="vue" />
+</p>
+
 <h3>Languages</h3>
+<p>
+    <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff" alt="typescript" />
+    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000" alt="javascript" />
+    <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=fff" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=fff" alt="css" />
+</p>
 
 <h3>Frameworks / libraries</h3>
 <p>
