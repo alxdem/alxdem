@@ -69,6 +69,7 @@
 <ul>
     <li>Developed a fully client-side stock trading app using React, TypeScript, Vite, and Redux Toolkit, with data stored in localStorage and fetched from public APIs;</li>
     <li>Built custom features like a CDN for optimized company logos, a virtualized operation list, and an npm package for credit card UI formatting;</li>
+    <li>Developed a Cloudflare Worker to minimize API requests and speed up data retrieval by fetching 10k companies daily, filtering them against the S&P 500 list, caching the results, and serving them to clients;</li>
     <li>Implemented charts with Recharts, form validation with React Hook Form + Zod, and light/dark themes via CSS variables.</li>
 </ul>
 
